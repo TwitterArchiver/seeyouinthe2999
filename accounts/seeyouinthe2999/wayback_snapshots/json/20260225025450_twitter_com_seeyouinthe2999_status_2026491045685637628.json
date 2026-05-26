@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2026491002224304129"
+      ]
+    },
+    "author_id": "2019293013114253313",
+    "conversation_id": "2026491045685637628",
+    "created_at": "2026-02-25T02:54:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T03:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026491045685637628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gSNo9CQ949",
+          "end": 34,
+          "expanded_url": "https://x.com/seeyouinthe2999/status/2026491045685637628/video/1",
+          "media_key": "7_2026491002224304129",
+          "start": 11,
+          "url": "https://t.co/gSNo9CQ949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026491045685637628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "OD配音乐好爽飞升🆙 https://t.co/gSNo9CQ949"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10580,
+        "height": 720,
+        "media_key": "7_2026491002224304129",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2026491002224304129/pu/img/putOrJsTM4ZQTyv5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026491002224304129/pu/vid/avc1/480x270/hIvl7bRnGzuaaRx7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026491002224304129/pu/vid/avc1/640x360/qR3j5iElA3ILc5Cq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026491002224304129/pu/vid/avc1/1280x720/agKcsdwPPWcWZD-Z.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2026491002224304129/pu/pl/pE7l1AQol9BYdea1.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2026491002224304129"
+          ]
+        },
+        "author_id": "2019293013114253313",
+        "conversation_id": "2026491045685637628",
+        "created_at": "2026-02-25T02:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T03:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026491045685637628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gSNo9CQ949",
+              "end": 34,
+              "expanded_url": "https://x.com/seeyouinthe2999/status/2026491045685637628/video/1",
+              "media_key": "7_2026491002224304129",
+              "start": 11,
+              "url": "https://t.co/gSNo9CQ949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026491045685637628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "OD配音乐好爽飞升🆙 https://t.co/gSNo9CQ949"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "幻想成为男娘的oder💊\n喜欢听摇滚  割🔪  重返未来1999\n来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "pinned_tweet_id": "2021195162106593327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 45,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 202
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      }
+    ]
+  }
+}

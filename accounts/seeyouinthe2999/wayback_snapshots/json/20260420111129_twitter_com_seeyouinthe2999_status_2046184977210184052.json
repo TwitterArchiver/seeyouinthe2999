@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2046184977210184052",
+    "created_at": "2026-04-20T11:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T12:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046184977210184052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1638959586140098560",
+          "start": 3,
+          "username": "jiuyouforwhite"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "mp.weixin.qq.com/s/FKOl_QJBgGDg",
+          "end": 101,
+          "expanded_url": "http://mp.weixin.qq.com/s/FKOl_QJBgGDg",
+          "start": 78,
+          "status": 501,
+          "unwound_url": "http://mp.weixin.qq.com/s/FKOl_QJBgGDg",
+          "url": "https://t.co/jH9d2vNxEH"
+        },
+        {
+          "display_url": "t.co/0tLrx",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/0tLrx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046184977210184052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046180597434032188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiuyouforwhite: 在4月20日(国际大麻日)官方发布了关于普瑞巴林和愈美片网络禁售的相关通知 公告是在半小时内刚发出来的\n具体如下 \nhttps://t.co/jH9d2vNxEH\n\n……\n普瑞巴林RIP\n愈美片RIP https://t.co/0tLrx…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 763,
+        "media_key": "3_2046180594816868352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGV-aOxbYAAbYMm.jpg",
+        "width": 1235
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2046184977210184052",
+        "created_at": "2026-04-20T11:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046184977210184052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1638959586140098560",
+              "start": 3,
+              "username": "jiuyouforwhite"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/FKOl_QJBgGDg",
+              "end": 101,
+              "expanded_url": "http://mp.weixin.qq.com/s/FKOl_QJBgGDg",
+              "start": 78,
+              "status": 501,
+              "unwound_url": "http://mp.weixin.qq.com/s/FKOl_QJBgGDg",
+              "url": "https://t.co/jH9d2vNxEH"
+            },
+            {
+              "display_url": "t.co/0tLrx",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/0tLrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046184977210184052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046180597434032188",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiuyouforwhite: 在4月20日(国际大麻日)官方发布了关于普瑞巴林和愈美片网络禁售的相关通知 公告是在半小时内刚发出来的\n具体如下 \nhttps://t.co/jH9d2vNxEH\n\n……\n普瑞巴林RIP\n愈美片RIP https://t.co/0tLrx…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046180594816868352"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2046180597434032188",
+        "created_at": "2026-04-20T10:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046180597434032188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/FKOl_QJBgGDg",
+              "end": 81,
+              "expanded_url": "http://mp.weixin.qq.com/s/FKOl_QJBgGDg",
+              "start": 58,
+              "status": 501,
+              "unwound_url": "http://mp.weixin.qq.com/s/FKOl_QJBgGDg",
+              "url": "https://t.co/jH9d2vNxEH"
+            },
+            {
+              "display_url": "pic.x.com/0tLrxjaXvq",
+              "end": 124,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2046180597434032188/photo/1",
+              "media_key": "3_2046180594816868352",
+              "start": 101,
+              "url": "https://t.co/0tLrxjaXvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046180597434032188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 423,
+          "like_count": 27,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "在4月20日(国际大麻日)官方发布了关于普瑞巴林和愈美片网络禁售的相关通知 公告是在半小时内刚发出来的\n具体如下 \nhttps://t.co/jH9d2vNxEH\n\n……\n普瑞巴林RIP\n愈美片RIP https://t.co/0tLrxjaXvq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "15岁高中生 oder💊抑郁/焦虑/c-ptsd\n喜欢听摇滚  割🔪  重返未来1999 偶尔发一些意识流诗文\n只要有手机耳机我就在听歌睡觉也在\n被pr80空腹逼疯的胃病患者\n同类来互fo捏\n@seeinMillennium 备用号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "seeinMillennium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seeyouinthe2999",
+                "end": 23,
+                "expanded_url": "https://ngl.link/seeyouinthe2999",
+                "start": 0,
+                "url": "https://t.co/FSmPgqNygM"
+              }
+            ]
+          }
+        },
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "pinned_tweet_id": "2045077580290941129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 380,
+          "like_count": 1677,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 944
+        },
+        "url": "https://t.co/FSmPgqNygM",
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/全部回fo/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "虚空",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2042113707577409571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 1237,
+          "like_count": 3396,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 1772
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

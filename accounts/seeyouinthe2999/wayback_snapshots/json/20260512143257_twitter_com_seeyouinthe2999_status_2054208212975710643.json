@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2054203134793408855",
+    "created_at": "2026-05-12T14:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T15:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054208212975710643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1841399715759312896",
+          "start": 0,
+          "username": "1everykittyfck_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054208212975710643",
+    "in_reply_to_user_id": "1841399715759312896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054203134793408855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1everykittyfck_ 别了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2054203134793408855",
+        "created_at": "2026-05-12T14:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054208212975710643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1841399715759312896",
+              "start": 0,
+              "username": "1everykittyfck_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054208212975710643",
+        "in_reply_to_user_id": "1841399715759312896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054203134793408855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1everykittyfck_ 别了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841399715759312896",
+        "conversation_id": "2054203134793408855",
+        "created_at": "2026-05-12T14:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054203134793408855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054203134793408855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天要o吗。我好累。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "15岁高中生 oder💊 mtf 抑郁/焦虑/c-ptsd\n喜欢听摇滚  割🔪  重返未来1999 偶尔发一些意识流诗文\n只要有手机耳机我就在听歌睡觉也在\n被pr80空腹逼疯的胃病患者\n同类来互fo捏\n@seeinMillennium 备用号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "seeinMillennium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seeyouinthe2999",
+                "end": 23,
+                "expanded_url": "https://ngl.link/seeyouinthe2999",
+                "start": 0,
+                "url": "https://t.co/FSmPgqNygM"
+              }
+            ]
+          }
+        },
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥马库斯爱吃蛋糕💊​🏳️‍⚧️",
+        "pinned_tweet_id": "2051915709974974926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 699,
+          "like_count": 2763,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 1222
+        },
+        "url": "https://t.co/FSmPgqNygM",
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T08:48:11.000Z",
+        "description": "泛/在幻觉里才可以看到真实，真的。",
+        "id": "1841399715759312896",
+        "location": "dm^",
+        "name": "ペット",
+        "pinned_tweet_id": "2038199214052897158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012535100400177152/z-gfM82q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 525,
+          "like_count": 10348,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 3058
+        },
+        "username": "1everykittyfck_",
+        "verified": false
+      }
+    ]
+  }
+}

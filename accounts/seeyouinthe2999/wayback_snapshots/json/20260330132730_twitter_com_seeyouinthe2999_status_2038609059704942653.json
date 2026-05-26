@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2038609059704942653",
+    "created_at": "2026-03-30T13:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038609059704942653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2032033299980566528",
+          "start": 3,
+          "username": "rinii165892"
+        },
+        {
+          "end": 39,
+          "id": "1956544219751063552",
+          "start": 27,
+          "username": "wu_si787878"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038609059704942653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038100514207096855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rinii165892: 关注我大号喵——!\n@wu_si787878"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [wu_si787878].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "wu_si787878",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "wu_si787878"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2038609059704942653",
+        "created_at": "2026-03-30T13:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038609059704942653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2032033299980566528",
+              "start": 3,
+              "username": "rinii165892"
+            },
+            {
+              "end": 39,
+              "id": "1956544219751063552",
+              "start": 27,
+              "username": "wu_si787878"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038609059704942653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038100514207096855",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rinii165892: 关注我大号喵——!\n@wu_si787878"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032033299980566528",
+        "conversation_id": "2038100514207096855",
+        "created_at": "2026-03-29T03:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T04:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038100514207096855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1956544219751063552",
+              "start": 10,
+              "username": "wu_si787878"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038100514207096855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2114,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关注我大号喵——!\n@wu_si787878"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "高中生 想成为男娘的oder💊\n喜欢听摇滚  割🔪  重返未来1999\n同类来互fo捏 不实现无政府共产主义我就去死",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊(黑化版)无限默哀中",
+        "pinned_tweet_id": "2026633753683177861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 197,
+          "like_count": 993,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 600
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "霖的第二黑化人格/寻回推u【查成分回fo】大号正常期间锁推\n✟❀信徒:@Fislonely_ ❀灵宠:@dbdbsjbsja❀永远纪念:@wu_si787878❀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 62,
+                "start": 51,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iirin53261",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iirin53261",
+                "start": 0,
+                "url": "https://t.co/1rBZJU4xmt"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "msk坟头",
+        "name": "3.雨木木（已黑化）",
+        "pinned_tweet_id": "2038261710612729866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032130669959397377/7kOyBARR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 302,
+          "like_count": 1682,
+          "listed_count": 5,
+          "media_count": 46,
+          "tweet_count": 1117
+        },
+        "url": "https://t.co/1rBZJU4xmt",
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

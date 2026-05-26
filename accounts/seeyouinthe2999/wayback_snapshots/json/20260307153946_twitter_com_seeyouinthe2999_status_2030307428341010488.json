@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2030013329880797218",
+    "created_at": "2026-03-07T15:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T16:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030307428341010488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "716817014875095040",
+          "start": 0,
+          "username": "Ben77539996"
+        },
+        {
+          "end": 28,
+          "id": "44186175",
+          "start": 13,
+          "username": "xiaojingcanxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030307428341010488",
+    "in_reply_to_user_id": "716817014875095040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030162458283758045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ben77539996 @xiaojingcanxue 关键中国人玩得太花了，真就没有纯种汉人了现在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2030013329880797218",
+        "created_at": "2026-03-07T15:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030307428341010488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "716817014875095040",
+              "start": 0,
+              "username": "Ben77539996"
+            },
+            {
+              "end": 28,
+              "id": "44186175",
+              "start": 13,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030307428341010488",
+        "in_reply_to_user_id": "716817014875095040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030162458283758045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ben77539996 @xiaojingcanxue 关键中国人玩得太花了，真就没有纯种汉人了现在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "716817014875095040",
+        "conversation_id": "2030013329880797218",
+        "created_at": "2026-03-07T06:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T07:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030162458283758045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "44186175",
+              "start": 0,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030162458283758045",
+        "in_reply_to_user_id": "44186175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 543,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030013329880797218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojingcanxue 他們被蒙古人統治成了蒙古人的奴隸，但他們卻自豪的說成吉思汗是中國人，他們被女真族統治成了女真族的奴隸，然後他們又說女真族是中國人，歐洲很多民族被他族統治，一旦找到機會他們會復國尋求獨立，歐洲人都是以本民族為榮，猶太人，日耳曼民族，只有中共國賤種以被統治為榮成為他族的奴隸為榮。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "高中生 幻想成为男娘的oder💊\n喜欢听摇滚  割🔪  重返未来1999\n同类来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "pinned_tweet_id": "2026633753683177861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 117,
+          "like_count": 660,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 396
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-04T02:37:48.000Z",
+        "description": "",
+        "id": "716817014875095040",
+        "location": "Manhattan, NY",
+        "name": "XO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1241871105239011339/O37zzFc7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 42,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 60
+        },
+        "username": "Ben77539996",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中美新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236884,
+          "following_count": 1847,
+          "like_count": 189,
+          "listed_count": 1267,
+          "media_count": 28172,
+          "tweet_count": 35976
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

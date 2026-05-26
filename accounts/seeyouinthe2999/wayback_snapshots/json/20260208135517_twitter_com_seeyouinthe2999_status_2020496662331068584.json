@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2020496662331068584",
+    "created_at": "2026-02-08T13:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T14:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020496662331068584"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "deca joins · 浴室 · Song · 2017",
+          "display_url": "open.spotify.com/track/6CxQsBfT…",
+          "end": 23,
+          "expanded_url": "https://open.spotify.com/track/6CxQsBfTmhx0RsoJoV8hH7?si=r5l8JHGWRbyBHVVEdTmXvg",
+          "start": 0,
+          "status": 200,
+          "title": "巫堵",
+          "unwound_url": "https://open.spotify.com/track/6CxQsBfTmhx0RsoJoV8hH7?si=r5l8JHGWRbyBHVVEdTmXvg",
+          "url": "https://t.co/s0PFzhA7Jm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020496662331068584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/s0PFzhA7Jm巫堵是巫堵交了八年的巫堵，在巫堵最巫堵的时候陪着他，但是当巫堵慢慢被巫堵接受的时候 巫堵却离开了，10年的巫堵音乐节突下巫堵导致巫堵一插巫堵就会巫堵，因此办了一场巫堵的巫堵，巫堵在唱这首巫堵的二分十秒的时候大声对巫堵喊了一句“ 巫堵你在吗！”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2020496662331068584",
+        "created_at": "2026-02-08T13:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T14:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020496662331068584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "deca joins · 浴室 · Song · 2017",
+              "display_url": "open.spotify.com/track/6CxQsBfT…",
+              "end": 23,
+              "expanded_url": "https://open.spotify.com/track/6CxQsBfTmhx0RsoJoV8hH7?si=r5l8JHGWRbyBHVVEdTmXvg",
+              "start": 0,
+              "status": 200,
+              "title": "巫堵",
+              "unwound_url": "https://open.spotify.com/track/6CxQsBfTmhx0RsoJoV8hH7?si=r5l8JHGWRbyBHVVEdTmXvg",
+              "url": "https://t.co/s0PFzhA7Jm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020496662331068584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/s0PFzhA7Jm巫堵是巫堵交了八年的巫堵，在巫堵最巫堵的时候陪着他，但是当巫堵慢慢被巫堵接受的时候 巫堵却离开了，10年的巫堵音乐节突下巫堵导致巫堵一插巫堵就会巫堵，因此办了一场巫堵的巫堵，巫堵在唱这首巫堵的二分十秒的时候大声对巫堵喊了一句“ 巫堵你在吗！”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "遗无需要和芜无吾永远在一起\noder\n有无人一起听摇滚一起od\n来互fo啊",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "芜无吾",
+        "pinned_tweet_id": "2020455201002451443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019294169844576263/0Asj402K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 20,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 39
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2020024874652299310",
+    "created_at": "2026-02-07T07:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T08:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020031034721726898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2008181604360003584",
+          "start": 0,
+          "username": "taikongjile003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020031034721726898",
+    "in_reply_to_user_id": "2008181604360003584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020024874652299310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taikongjile003 是1999的索菲亚吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 721,
+        "media_key": "3_2020024871867359232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAiR6x0boAAfD97.jpg",
+        "width": 713
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2020024874652299310",
+        "created_at": "2026-02-07T07:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T08:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020031034721726898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2008181604360003584",
+              "start": 0,
+              "username": "taikongjile003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020031034721726898",
+        "in_reply_to_user_id": "2008181604360003584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020024874652299310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taikongjile003 是1999的索菲亚吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020024871867359232"
+          ]
+        },
+        "author_id": "2008181604360003584",
+        "conversation_id": "2020024874652299310",
+        "created_at": "2026-02-07T06:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T07:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020024874652299310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qxZ16FNkna",
+              "end": 29,
+              "expanded_url": "https://x.com/taikongjile003/status/2020024874652299310/photo/1",
+              "media_key": "3_2020024871867359232",
+              "start": 6,
+              "url": "https://t.co/qxZ16FNkna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020024874652299310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "歐迪變天才 https://t.co/qxZ16FNkna"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "打倒伪社会主义重塑中华苏维埃之荣光",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "pr80+喹硫平重度依赖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019294169844576263/0Asj402K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 7,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T14:19:49.000Z",
+        "description": "官网：https://t.co/AAUURL4h0r\n交流群：https://t.co/BojRmuPJrJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 26,
+                "expanded_url": "https://taikong.mom",
+                "start": 3,
+                "url": "https://t.co/AAUURL4h0r"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 54,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 31,
+                "url": "https://t.co/BojRmuPJrJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 23,
+                "expanded_url": "https://taikong.mom",
+                "start": 0,
+                "url": "https://t.co/AAUURL4h0r"
+              }
+            ]
+          }
+        },
+        "id": "2008181604360003584",
+        "name": "太空极乐百科",
+        "pinned_tweet_id": "2019732708784775304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019730982350516224/BtvjrHz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 58,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 17
+        },
+        "url": "https://t.co/AAUURL4h0r",
+        "username": "taikongjile003",
+        "verified": false
+      }
+    ]
+  }
+}

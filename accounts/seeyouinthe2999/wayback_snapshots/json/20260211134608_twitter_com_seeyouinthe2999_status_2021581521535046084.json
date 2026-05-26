@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2021581521535046084",
+    "created_at": "2026-02-11T13:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T14:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021581521535046084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1886289385177669632",
+          "start": 3,
+          "username": "Lizzy_522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021581521535046084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 187
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021257609727312016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lizzy_522: 不想活又不敢死\n 不想活又不敢死\n  不想活又不敢死\n   不想活又不敢死\n    不想活又不敢死\n     不想活又不敢死\n      不想活又不敢死\n       不想活又不敢死\n        不想活又不敢死\n         不想活又不敢死…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2021581521535046084",
+        "created_at": "2026-02-11T13:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T14:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021581521535046084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1886289385177669632",
+              "start": 3,
+              "username": "Lizzy_522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021581521535046084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 187
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021257609727312016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lizzy_522: 不想活又不敢死\n 不想活又不敢死\n  不想活又不敢死\n   不想活又不敢死\n    不想活又不敢死\n     不想活又不敢死\n      不想活又不敢死\n       不想活又不敢死\n        不想活又不敢死\n         不想活又不敢死…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886289385177669632",
+        "conversation_id": "2021257609727312016",
+        "created_at": "2026-02-10T16:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T17:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021257609727312016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021257609727312016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 18185,
+          "like_count": 1270,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 187
+        },
+        "reply_settings": "everyone",
+        "text": "不想活又不敢死\n 不想活又不敢死\n  不想活又不敢死\n   不想活又不敢死\n    不想活又不敢死\n     不想活又不敢死\n      不想活又不敢死\n       不想活又不敢死\n        不想活又不敢死\n         不想活又不敢死\n          不想活又不敢死\n           不想活又不敢死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "遗无需要和芜无吾永远在一起\noder\n有无人一起听摇滚一起od\n来互fo啊",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "芜无吾",
+        "pinned_tweet_id": "2021195162106593327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019294169844576263/0Asj402K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 24,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 85
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T05:43:38.000Z",
+        "description": "08 自残逼、磕药蛆、烟鬼、酗酒。成分复杂，钢琴，滚圈涉猎广泛，并爱听点jpop，单车，电子数码垃圾佬。日常吐苦水，友所有群体，只要不是三无号都会回fo。最好的bro @yu_huacs 友情链接@KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 84,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/RDVwBMCX6v"
+              }
+            ]
+          }
+        },
+        "id": "1886289385177669632",
+        "name": "リジー",
+        "pinned_tweet_id": "2018509424474865995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997491540915294208/kFKVZs05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 189,
+          "like_count": 8226,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 1110
+        },
+        "url": "https://t.co/RDVwBMCX6v",
+        "username": "Lizzy_522",
+        "verified": false
+      }
+    ]
+  }
+}

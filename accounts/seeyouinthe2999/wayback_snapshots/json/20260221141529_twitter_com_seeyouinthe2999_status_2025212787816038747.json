@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2025081541358223531",
+    "created_at": "2026-02-21T14:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T15:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025212787816038747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1850866454201315328",
+          "start": 0,
+          "username": "tangbao220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025212787816038747",
+    "in_reply_to_user_id": "1850866454201315328",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025081541358223531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangbao220 1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025081534177488896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqI7Q3aMAAHAtO.jpg",
+        "width": 1630
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2025081541358223531",
+        "created_at": "2026-02-21T14:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T15:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025212787816038747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850866454201315328",
+              "start": 0,
+              "username": "tangbao220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025212787816038747",
+        "in_reply_to_user_id": "1850866454201315328",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025081541358223531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangbao220 1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025081534177488896"
+          ]
+        },
+        "author_id": "1850866454201315328",
+        "conversation_id": "2025081541358223531",
+        "created_at": "2026-02-21T05:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025081541358223531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fHAY1YccH6",
+              "end": 137,
+              "expanded_url": "https://x.com/tangbao220/status/2025081541358223531/photo/1",
+              "media_key": "3_2025081534177488896",
+              "start": 114,
+              "url": "https://t.co/fHAY1YccH6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025081541358223531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 269,
+          "impression_count": 639720,
+          "like_count": 3293,
+          "quote_count": 0,
+          "reply_count": 2706,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "刚结束  全程记录实况🙈📷                   \n\n感觉看  马上删了......                    \n\n留言1全部有份        \n\n▶︎ •၊၊||၊|။||||။၊|• 27:39 https://t.co/fHAY1YccH6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "幻想成为男娘的oder💊\n喜欢听摇滚  割🔪  重返未来1999\n来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "pinned_tweet_id": "2021195162106593327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 27,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 144
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T11:45:39.000Z",
+        "description": "新人 x是第二个朋友圈嘻嘻 每天更新",
+        "id": "1850866454201315328",
+        "name": "糖宝",
+        "pinned_tweet_id": "2025081541358223531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013144618645303296/xinZOYhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5297,
+          "following_count": 25,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 81
+        },
+        "username": "tangbao220",
+        "verified": false
+      }
+    ]
+  }
+}

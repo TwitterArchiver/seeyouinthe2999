@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "1999718615944479040",
+    "created_at": "2026-02-05T13:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T14:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019396092841062745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1314388633869152259",
+          "start": 0,
+          "username": "Swathy17531761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019396092841062745",
+    "in_reply_to_user_id": "1314388633869152259",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999718615944479040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Swathy17531761 感康配玉米"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1999718606519836672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8BtekhaoAAAqvC.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "1999718615944479040",
+        "created_at": "2026-02-05T13:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T14:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019396092841062745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1314388633869152259",
+              "start": 0,
+              "username": "Swathy17531761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019396092841062745",
+        "in_reply_to_user_id": "1314388633869152259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999718615944479040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Swathy17531761 感康配玉米"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999718606519836672"
+          ]
+        },
+        "author_id": "1314388633869152259",
+        "conversation_id": "1999718615944479040",
+        "created_at": "2025-12-13T05:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T06:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999718615944479040"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "药物"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "od"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ktIsJBZqzk",
+              "end": 71,
+              "expanded_url": "https://x.com/Swathy17531761/status/1999718615944479040/photo/1",
+              "media_key": "3_1999718606519836672",
+              "start": 48,
+              "url": "https://t.co/ktIsJBZqzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999718615944479040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11488,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃了12粒。刚才吃了5粒。感觉效果不怎么样。pr80\n有什么药推荐的吗 #药物 #od #药娘 https://t.co/ktIsJBZqzk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "芜无吾",
+        "id": "2019293013114253313",
+        "location": "東京 渋谷区",
+        "name": "pr80+喹硫平重度依赖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019294169844576263/0Asj402K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T02:14:17.000Z",
+        "description": "这里是小汐~ !可以叫咱小汐或者汐宝~?身高162cm/体重130唉（绝食魔爪减肥中）😮‍💨~有点胖。。。嘴巴很笨不会说话，没有社交生活(因为现实根本没有朋友T^T)，社恐，梦想是成为可爱的女孩子~药娘哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaoxi52013",
+                "end": 23,
+                "expanded_url": "https://t.me/xiaoxi52013",
+                "start": 0,
+                "url": "https://t.co/FiOMeYQkCS"
+              }
+            ]
+          }
+        },
+        "id": "1314388633869152259",
+        "name": "小汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1996992269686349850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980594365820006400/OhzPUZi__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 74,
+          "like_count": 9,
+          "listed_count": 5,
+          "media_count": 46,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/FiOMeYQkCS",
+        "username": "Swathy17531761",
+        "verified": false
+      }
+    ]
+  }
+}

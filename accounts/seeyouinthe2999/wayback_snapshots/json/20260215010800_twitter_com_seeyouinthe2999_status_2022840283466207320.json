@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2022283358638915928",
+    "created_at": "2026-02-15T01:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T02:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022840283466207320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1667129907795886081",
+          "start": 0,
+          "username": "mods999_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022840283466207320",
+    "in_reply_to_user_id": "1667129907795886081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022283358638915928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mods999_ 国内一帮煞笔觉得OD多不好其实那些可以合法购买到的药成瘾性还没有他们吸得烟成瘾性大"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2022283354503274496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCX_xRaYAATNhy.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2022283358638915928",
+        "created_at": "2026-02-15T01:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T02:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022840283466207320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1667129907795886081",
+              "start": 0,
+              "username": "mods999_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022840283466207320",
+        "in_reply_to_user_id": "1667129907795886081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022283358638915928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mods999_ 国内一帮煞笔觉得OD多不好其实那些可以合法购买到的药成瘾性还没有他们吸得烟成瘾性大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022283354503274496"
+          ]
+        },
+        "author_id": "1667129907795886081",
+        "conversation_id": "2022283358638915928",
+        "created_at": "2026-02-13T12:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022283358638915928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SSJrxpGNBd",
+              "end": 23,
+              "expanded_url": "https://x.com/mods999_/status/2022283358638915928/photo/1",
+              "media_key": "3_2022283354503274496",
+              "start": 0,
+              "url": "https://t.co/SSJrxpGNBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022283358638915928",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 60864,
+          "like_count": 1053,
+          "quote_count": 9,
+          "reply_count": 27,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SSJrxpGNBd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "幻想成为男娘的oder\n喜欢听摇滚  割🔪  重返未来1999\n来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "芜无吾",
+        "pinned_tweet_id": "2021195162106593327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 25,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 106
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T11:22:09.000Z",
+        "description": "不是特别抽象的都会回fo\\Oder\\阴暗B\\提问箱https://t.co/I9lQtGNxeW\\纯种汉奸🇯🇵\\喜欢一击脱离实在不爽开个小号来骂\\KOJIMA世界一番!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mods999_",
+                "end": 48,
+                "expanded_url": "https://ngl.link/mods999_",
+                "start": 25,
+                "url": "https://t.co/I9lQtGNxeW"
+              }
+            ]
+          }
+        },
+        "id": "1667129907795886081",
+        "location": "阿克西斯",
+        "name": "白武男",
+        "pinned_tweet_id": "1930267627890585814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017949323103993856/BBQ55mPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 413,
+          "like_count": 28447,
+          "listed_count": 2,
+          "media_count": 1127,
+          "tweet_count": 4689
+        },
+        "username": "mods999_",
+        "verified": false
+      }
+    ]
+  }
+}

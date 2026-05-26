@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2040036309142757632",
+    "created_at": "2026-04-05T16:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T17:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040834136940958105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1956800340139053056",
+          "start": 0,
+          "username": "2nightingale2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040834136940958105",
+    "in_reply_to_user_id": "1956800340139053056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040036309142757632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2nightingale2 一起逃离这该死的世界"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2040036302176079872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-qNVAbUAA6nrX.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2040036309142757632",
+        "created_at": "2026-04-05T16:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040834136940958105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1956800340139053056",
+              "start": 0,
+              "username": "2nightingale2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040834136940958105",
+        "in_reply_to_user_id": "1956800340139053056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040036309142757632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2nightingale2 一起逃离这该死的世界"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040036302176079872"
+          ]
+        },
+        "author_id": "1956800340139053056",
+        "conversation_id": "2040036309142757632",
+        "created_at": "2026-04-03T11:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040036309142757632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mfngr1wz46",
+              "end": 29,
+              "expanded_url": "https://x.com/2nightingale2/status/2040036309142757632/photo/1",
+              "media_key": "3_2040036302176079872",
+              "start": 6,
+              "url": "https://t.co/mfngr1wz46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040036309142757632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和我逃离吧 https://t.co/mfngr1wz46"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "15岁高中生 oder💊\n喜欢听摇滚  割🔪  重返未来1999 偶尔发一些意识流诗文\n只要有手机耳机我就在听歌睡觉也在\n励志成为无国籍人士\n同类来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 286,
+          "like_count": 1173,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 761
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T19:30:10.000Z",
+        "description": "享乐主义至上",
+        "id": "1956800340139053056",
+        "name": "我挺坏、",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994678595491377152/c8AaJJIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 76,
+          "like_count": 1853,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 181
+        },
+        "username": "2nightingale2",
+        "verified": false
+      }
+    ]
+  }
+}

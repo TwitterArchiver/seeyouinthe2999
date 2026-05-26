@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2021844190515318967",
+    "created_at": "2026-02-12T07:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T08:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021854121444450350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1885154179922227200",
+          "start": 0,
+          "username": "Snow_Xue_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021854121444450350",
+    "in_reply_to_user_id": "1885154179922227200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021844190515318967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_Xue_ 摸摸我可以给你买要吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021844181090807812",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8Ikg0bsAQoE-T.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021844187491250176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8Ik4qasAAhcsc.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2021844190515318967",
+        "created_at": "2026-02-12T07:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T08:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021854121444450350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885154179922227200",
+              "start": 0,
+              "username": "Snow_Xue_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021854121444450350",
+        "in_reply_to_user_id": "1885154179922227200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021844190515318967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_ 摸摸我可以给你买要吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021844181090807812",
+            "3_2021844187491250176"
+          ]
+        },
+        "author_id": "1885154179922227200",
+        "conversation_id": "2021844190515318967",
+        "created_at": "2026-02-12T07:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T08:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021844190515318967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uqgiXE9FTd",
+              "end": 96,
+              "expanded_url": "https://x.com/Snow_Xue_/status/2021844190515318967/photo/1",
+              "media_key": "3_2021844181090807812",
+              "start": 73,
+              "url": "https://t.co/uqgiXE9FTd"
+            },
+            {
+              "display_url": "pic.x.com/uqgiXE9FTd",
+              "end": 96,
+              "expanded_url": "https://x.com/Snow_Xue_/status/2021844190515318967/photo/1",
+              "media_key": "3_2021844187491250176",
+              "start": 73,
+              "url": "https://t.co/uqgiXE9FTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021844190515318967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人生的第一盒pr坠机了😭😭😭\n\ncnm拼多多，窝的退路啊😭😭😭本来想着回家就刚好能拿到，如果家里吵起来或者怎么样直接o了的，结果给窝退款了😭😭😭 https://t.co/uqgiXE9FTd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "遗无需要和芜无吾永远在一起\noder\n有无人一起听摇滚一起od\n来互fo啊",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "芜无吾",
+        "pinned_tweet_id": "2021195162106593327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019294169844576263/0Asj402K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 25,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 94
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "| 普通的上海入 | 位于常州 | 过年回上海 | 不见证 | 不割手 | 或许会o？ | 生产日期2010.3.16 | 无证含糖 | 🍥hrt 2025.11 | 已炸柜 | 家长不管党 | | b站：屑冷雪 / 屑冷雪_ | emo也在用这个号 |  emoQQ：3387774141",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow_xue_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/snow_xue_",
+                "start": 0,
+                "url": "https://t.co/UJzajXA6Cp"
+              }
+            ]
+          }
+        },
+        "id": "1885154179922227200",
+        "location": "上海",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2019404944802300334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014003117520748544/Yng-qPnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 1404,
+          "like_count": 41049,
+          "listed_count": 3,
+          "media_count": 550,
+          "tweet_count": 4104
+        },
+        "url": "https://t.co/UJzajXA6Cp",
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

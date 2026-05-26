@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2044380502585667970",
+    "created_at": "2026-04-15T11:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T12:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044380502585667970"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Take the quiz about 马库斯爱吃蛋糕!",
+          "display_url": "friendquiz.me/quiz/rAm4XsW7?…",
+          "end": 26,
+          "expanded_url": "https://friendquiz.me/quiz/rAm4XsW7?lang=en-gb",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2044380510273843200/aeBlk2Gy?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2044380510273843200/aeBlk2Gy?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 3,
+          "status": 200,
+          "title": "马库斯爱吃蛋糕's FriendQuiz",
+          "unwound_url": "https://friendquiz.me/quiz/rAm4XsW7?lang=en-gb",
+          "url": "https://t.co/Vx1fNCjXBZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044380502585667970",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来玩😋https://t.co/Vx1fNCjXBZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2044380502585667970",
+        "created_at": "2026-04-15T11:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044380502585667970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Take the quiz about 马库斯爱吃蛋糕!",
+              "display_url": "friendquiz.me/quiz/rAm4XsW7?…",
+              "end": 26,
+              "expanded_url": "https://friendquiz.me/quiz/rAm4XsW7?lang=en-gb",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2044380510273843200/aeBlk2Gy?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044380510273843200/aeBlk2Gy?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 3,
+              "status": 200,
+              "title": "马库斯爱吃蛋糕's FriendQuiz",
+              "unwound_url": "https://friendquiz.me/quiz/rAm4XsW7?lang=en-gb",
+              "url": "https://t.co/Vx1fNCjXBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044380502585667970",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来玩😋https://t.co/Vx1fNCjXBZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "15岁高中生 oder💊抑郁/焦虑/c-ptsd\n喜欢听摇滚  割🔪  重返未来1999 偶尔发一些意识流诗文\n只要有手机耳机我就在听歌睡觉也在\n被pr80空腹逼疯的胃病患者\n同类来互fo捏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seeyouinthe2999",
+                "end": 23,
+                "expanded_url": "https://ngl.link/seeyouinthe2999",
+                "start": 0,
+                "url": "https://t.co/FSmPgqNygM"
+              }
+            ]
+          }
+        },
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "pinned_tweet_id": "2043713274718617869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 341,
+          "like_count": 1558,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 916
+        },
+        "url": "https://t.co/FSmPgqNygM",
+        "username": "seeyouinthe2999",
+        "verified": false
+      }
+    ]
+  }
+}

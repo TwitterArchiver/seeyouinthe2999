@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2030149277394386958",
+    "created_at": "2026-03-07T15:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T16:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030308694647517389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "85221173",
+          "start": 0,
+          "username": "daneishe888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030308694647517389",
+    "in_reply_to_user_id": "85221173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030149277394386958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daneishe888 虽然但是你是日本人管中国人干什么，你这样做会被叫日奸的，我很讨厌不忠于自己祖国的人不管他认为、支持本国和我国要友好不要打仗等"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2030149275217530880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCyKAnZbkAAe6ZL.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2030149277394386958",
+        "created_at": "2026-03-07T15:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030308694647517389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "85221173",
+              "start": 0,
+              "username": "daneishe888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030308694647517389",
+        "in_reply_to_user_id": "85221173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030149277394386958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daneishe888 虽然但是你是日本人管中国人干什么，你这样做会被叫日奸的，我很讨厌不忠于自己祖国的人不管他认为、支持本国和我国要友好不要打仗等"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030149275217530880"
+          ]
+        },
+        "author_id": "85221173",
+        "conversation_id": "2030149277394386958",
+        "created_at": "2026-03-07T05:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T06:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030149277394386958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "14亿中国人那么畜牲 不屠光中国人我们还是人吗🤷 我是把两三亿小中国人沤烂在母中国人阴里当屎尿排掉了的邓小平爷爷 爷爷带你高效种族灭绝中国人",
+              "display_url": "x.com/dhxhz244070",
+              "end": 55,
+              "expanded_url": "https://x.com/dhxhz244070",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2030149277704671232/qRz-Tj0M?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2030149277704671232/qRz-Tj0M?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "邓无孩 (@dhxhz244070) on X",
+              "unwound_url": "https://x.com/dhxhz244070",
+              "url": "https://t.co/zsssCkDe4C"
+            },
+            {
+              "display_url": "pic.x.com/0GQDjL1i8y",
+              "end": 79,
+              "expanded_url": "https://x.com/daneishe888/status/2030149277394386958/photo/1",
+              "media_key": "3_2030149275217530880",
+              "start": 56,
+              "url": "https://t.co/0GQDjL1i8y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030149277394386958",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 16986,
+          "like_count": 162,
+          "quote_count": 0,
+          "reply_count": 72,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "これは通報すべきアカウントじゃないか？中国人を絶滅するとか⋯\n\nhttps://t.co/zsssCkDe4C https://t.co/0GQDjL1i8y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "高中生 幻想成为男娘的oder💊\n喜欢听摇滚  割🔪  重返未来1999\n同类来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "pinned_tweet_id": "2026633753683177861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 117,
+          "like_count": 660,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 397
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-26T02:41:51.000Z",
+        "description": "日中友好！我是会说中文的有良心日本人☺️手机=Find X8s、中国留学経験あり、中国語のみで会話可能😃情報処理安全確保支援士/ネットワークスペシャリスト、課長職、好きなTVゲームはシェンムー、アドバンスド大戦略(メガドライブ版)、A列車で行こう4／3DS、グラディウスIII😉中国人との恋愛経験複数、日本人は0😆",
+        "id": "85221173",
+        "location": "Tokyo-to, Japan",
+        "name": "she888🇯🇵🤝🇨🇳日中友好！",
+        "pinned_tweet_id": "1281189599285374977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1223411646850199552/SOc4SFe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3485,
+          "following_count": 278,
+          "like_count": 95460,
+          "listed_count": 20,
+          "media_count": 3389,
+          "tweet_count": 76649
+        },
+        "username": "daneishe888",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2021267852343247118",
+    "created_at": "2026-02-10T16:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T17:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021267852343247118"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021267852343247118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感受感受着pr80随血液进入大脑，共济系统开始失调，我拿起了一本书打开到我最回味的那一段，戴上耳机播上了歌。时间对我亦可慢亦可慢。何时我好像看不清字了，视野中间的字变得越发清晰清晰至扭曲，我缓缓闭上了眼仿佛回到母胎，感受着五彩的颜色滑过大脑，无数美好的幻象浮现眼前，人生似已无憾愿为死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2021267852343247118",
+        "created_at": "2026-02-10T16:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T17:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021267852343247118"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021267852343247118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感受感受着pr80随血液进入大脑，共济系统开始失调，我拿起了一本书打开到我最回味的那一段，戴上耳机播上了歌。时间对我亦可慢亦可慢。何时我好像看不清字了，视野中间的字变得越发清晰清晰至扭曲，我缓缓闭上了眼仿佛回到母胎，感受着五彩的颜色滑过大脑，无数美好的幻象浮现眼前，人生似已无憾愿为死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "遗无需要和芜无吾永远在一起\noder\n有无人一起听摇滚一起od\n来互fo啊",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "芜无吾",
+        "pinned_tweet_id": "2021195162106593327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019294169844576263/0Asj402K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 25,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 67
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      }
+    ]
+  }
+}

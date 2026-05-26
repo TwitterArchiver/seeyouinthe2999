@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2028663347193753645",
+    "created_at": "2026-03-04T13:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T14:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029186945260359696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1694638553098264576",
+          "start": 0,
+          "username": "kawaiangel233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029186945260359696",
+    "in_reply_to_user_id": "1694638553098264576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028663347193753645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaiangel233 互fo～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2028663347193753645",
+        "created_at": "2026-03-04T13:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T14:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029186945260359696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1694638553098264576",
+              "start": 0,
+              "username": "kawaiangel233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029186945260359696",
+        "in_reply_to_user_id": "1694638553098264576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028663347193753645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaiangel233 互fo～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694638553098264576",
+        "conversation_id": "2028663347193753645",
+        "created_at": "2026-03-03T02:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T03:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028663347193753645"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028663347193753645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3485,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "想和大家互fo，想要好多朋友🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "高中生 幻想成为男娘的oder💊\n喜欢听摇滚  割🔪  重返未来1999\n同类来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "pinned_tweet_id": "2026633753683177861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 77,
+          "like_count": 544,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 315
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-24T09:11:41.000Z",
+        "description": "生产日期2006 11 3🎂/大一/mtf🏳️‍⚧️/hrt2025 12 01/深柜中/精神状态不太稳定/目前是清水/想要多多同类互fo谢谢啦🥺\n\n✟小天使請安✟",
+        "id": "1694638553098264576",
+        "location": "北京丰台",
+        "name": "鍵山雛🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2028663347193753645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694644007295754240/uJVny2Bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 458,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 20
+        },
+        "username": "kawaiangel233",
+        "verified": false
+      }
+    ]
+  }
+}

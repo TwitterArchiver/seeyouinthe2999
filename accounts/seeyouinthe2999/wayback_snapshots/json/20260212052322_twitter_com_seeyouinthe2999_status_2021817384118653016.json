@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2021817384118653016",
+    "created_at": "2026-02-12T05:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T06:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021817384118653016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1761208815088001024",
+          "start": 3,
+          "username": "_Bad_Meow_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021817384118653016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021609050216047061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Bad_Meow_: 500fo了，感谢大家的支持——！😋😋❤️这边抽三个人送点小礼物！\n\n关注+评论+转发即可参与\n\n①一盒150mg普瑞巴林（32t）（折17r）\n②4听粉魔爪（折17r）\n③一杯奶茶（折15r）\n\n礼轻情意重别嫌弃我🙇‍♀️🙇‍♀️🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2021817384118653016",
+        "created_at": "2026-02-12T05:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T06:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021817384118653016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1761208815088001024",
+              "start": 3,
+              "username": "_Bad_Meow_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021817384118653016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021609050216047061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Bad_Meow_: 500fo了，感谢大家的支持——！😋😋❤️这边抽三个人送点小礼物！\n\n关注+评论+转发即可参与\n\n①一盒150mg普瑞巴林（32t）（折17r）\n②4听粉魔爪（折17r）\n③一杯奶茶（折15r）\n\n礼轻情意重别嫌弃我🙇‍♀️🙇‍♀️🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761208815088001024",
+        "conversation_id": "2021609050216047061",
+        "created_at": "2026-02-11T15:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T16:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021609050216047061"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021609050216047061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2841,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 68,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "500fo了，感谢大家的支持——！😋😋❤️这边抽三个人送点小礼物！\n\n关注+评论+转发即可参与\n\n①一盒150mg普瑞巴林（32t）（折17r）\n②4听粉魔爪（折17r）\n③一杯奶茶（折15r）\n\n礼轻情意重别嫌弃我🙇‍♀️🙇‍♀️🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "遗无需要和芜无吾永远在一起\noder\n有无人一起听摇滚一起od\n来互fo啊",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "芜无吾",
+        "pinned_tweet_id": "2021195162106593327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019294169844576263/0Asj402K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 25,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 92
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T01:58:04.000Z",
+        "description": "餐券割手女🔪🩸︱友好不鉴证谢谢！︱可以称呼我为饼干︱休学家里蹲︱OD💊︱同类互fo︱画画︱私信我时只说“你好”不会给予任何回复！‼️︱无🚪但给我打零食钱的话我会很喜欢你（用不了支付宝😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cookie88211",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cookie88211",
+                "start": 0,
+                "url": "https://t.co/k9b4PZvg4N"
+              }
+            ]
+          }
+        },
+        "id": "1761208815088001024",
+        "location": "家",
+        "name": "┃☆饼干饼干☆┃",
+        "pinned_tweet_id": "2021332147970376169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008258914010415105/8V-a0CWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 443,
+          "like_count": 3002,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 2093
+        },
+        "url": "https://t.co/k9b4PZvg4N",
+        "username": "_Bad_Meow_",
+        "verified": false
+      }
+    ]
+  }
+}

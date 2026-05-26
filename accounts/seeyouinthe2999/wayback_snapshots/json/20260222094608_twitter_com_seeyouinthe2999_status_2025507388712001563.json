@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2025063467447894444",
+    "created_at": "2026-02-22T09:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T10:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025507388712001563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013233628847980544",
+          "start": 0,
+          "username": "Asukai_Yuki"
+        },
+        {
+          "end": 27,
+          "id": "2250210022",
+          "start": 13,
+          "username": "stelios199948"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025507388712001563",
+    "in_reply_to_user_id": "2013233628847980544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025264119163797981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asukai_Yuki @stelios199948 有的药不伤肝的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2025063467447894444",
+        "created_at": "2026-02-22T09:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T10:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025507388712001563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013233628847980544",
+              "start": 0,
+              "username": "Asukai_Yuki"
+            },
+            {
+              "end": 27,
+              "id": "2250210022",
+              "start": 13,
+              "username": "stelios199948"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025507388712001563",
+        "in_reply_to_user_id": "2013233628847980544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025264119163797981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asukai_Yuki @stelios199948 有的药不伤肝的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013233628847980544",
+        "conversation_id": "2025063467447894444",
+        "created_at": "2026-02-21T17:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T18:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025264119163797981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2250210022",
+              "start": 0,
+              "username": "stelios199948"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025264119163797981",
+        "in_reply_to_user_id": "2250210022",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025063467447894444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stelios199948 酒蒙子和oder比呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "幻想成为男娘的oder💊\n喜欢听摇滚  割🔪  重返未来1999\n来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "pinned_tweet_id": "2021195162106593327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 27,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 161
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T12:54:43.000Z",
+        "description": "＝飞鸟井郁希 精神状态和性别是蔚蓝色 梦想是当摇滚明星 | 06| 双相 焦虑 | 惨圈女戒割中 | 💊🎸🎨 | 酷儿全友好 提问箱https://t.co/1wmN2eVRYQ | 看黄男别来骚扰，反跨激女来我主页先死个妈哦",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikanseinonatsu",
+                "end": 89,
+                "expanded_url": "https://ngl.link/mikanseinonatsu",
+                "start": 66,
+                "url": "https://t.co/1wmN2eVRYQ"
+              }
+            ]
+          }
+        },
+        "id": "2013233628847980544",
+        "location": "Tonight I'm a rock'n'roll star",
+        "name": "郁希",
+        "pinned_tweet_id": "2023320340466905458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013241006649479169/wv7Yutei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 77,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 995
+        },
+        "username": "Asukai_Yuki",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-29T15:21:44.000Z",
+        "description": "2009.2|177cm|60Kg|\n喜欢文学，尤其是现实主义\nl出柜|家长求神拜鬼中|自由|平等|独立|私信不提示，晚回请见谅",
+        "id": "2250210022",
+        "name": "空气味🍥软糖",
+        "pinned_tweet_id": "2024694651081674809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024738450784866304/ItqCGyJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 353,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 291
+        },
+        "username": "stelios199948",
+        "verified": false
+      }
+    ]
+  }
+}

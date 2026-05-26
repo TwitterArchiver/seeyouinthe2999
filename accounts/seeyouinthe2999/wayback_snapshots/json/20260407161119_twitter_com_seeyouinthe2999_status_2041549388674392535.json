@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2041530984005505430",
+    "created_at": "2026-04-07T16:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T17:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041549388674392535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1875906425517662208",
+          "start": 0,
+          "username": "Asuka080s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041549388674392535",
+    "in_reply_to_user_id": "1875906425517662208",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041548520059236383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asuka080s 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2041530984005505430",
+        "created_at": "2026-04-07T16:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T17:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041549388674392535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1875906425517662208",
+              "start": 0,
+              "username": "Asuka080s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041549388674392535",
+        "in_reply_to_user_id": "1875906425517662208",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041548520059236383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asuka080s 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875906425517662208",
+        "conversation_id": "2041530984005505430",
+        "created_at": "2026-04-07T16:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T17:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041548520059236383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2019293013114253313",
+              "start": 0,
+              "username": "seeyouinthe2999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041548520059236383",
+        "in_reply_to_user_id": "2019293013114253313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041530984005505430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeyouinthe2999 不要死哦，霍夫曼女士一定不想看到马库斯因为她就一直伤心难过的，而是要振作起来，好好生活，所以你不要想死的事，要好好生活哦朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "15岁高中生 oder💊抑郁/焦虑/c-ptsd\n喜欢听摇滚  割🔪  重返未来1999 偶尔发一些意识流诗文\n只要有手机耳机我就在听歌睡觉也在\n励志成为无国籍人士\n同类来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 308,
+          "like_count": 1267,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 811
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T14:05:30.000Z",
+        "description": "请关注我，请关注我，谢谢",
+        "id": "1875906425517662208",
+        "location": "日本 東京",
+        "name": "我的猫很爱我.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038769189889146880/oCvkoCvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 49,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 327
+        },
+        "url": "",
+        "username": "Asuka080s",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T14:05:30.000Z",
+        "description": "请关注我，请关注我，谢谢",
+        "id": "1875906425517662208",
+        "location": "日本 東京",
+        "name": "我的猫很爱我.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038769189889146880/oCvkoCvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 49,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 327
+        },
+        "username": "Asuka080s",
+        "verified": false
+      }
+    ]
+  }
+}

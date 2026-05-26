@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025218552995966976"
+      ]
+    },
+    "author_id": "2019293013114253313",
+    "conversation_id": "2025218556250714567",
+    "created_at": "2026-02-21T14:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T15:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025218556250714567"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O2EvI4uiOw",
+          "end": 89,
+          "expanded_url": "https://x.com/seeyouinthe2999/status/2025218556250714567/photo/1",
+          "media_key": "3_2025218552995966976",
+          "start": 66,
+          "url": "https://t.co/O2EvI4uiOw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025218556250714567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“百亿”补贴来了，我将随机抽选2位参与活动者一盒75mg 普瑞巴林，点赞+关注+转发此帖即可参与(活动截止于2月24号  12点） https://t.co/O2EvI4uiOw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1903,
+        "media_key": "3_2025218552995966976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsFizva8AAoe8J.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025218552995966976"
+          ]
+        },
+        "author_id": "2019293013114253313",
+        "conversation_id": "2025218556250714567",
+        "created_at": "2026-02-21T14:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T15:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025218556250714567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O2EvI4uiOw",
+              "end": 89,
+              "expanded_url": "https://x.com/seeyouinthe2999/status/2025218556250714567/photo/1",
+              "media_key": "3_2025218552995966976",
+              "start": 66,
+              "url": "https://t.co/O2EvI4uiOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025218556250714567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“百亿”补贴来了，我将随机抽选2位参与活动者一盒75mg 普瑞巴林，点赞+关注+转发此帖即可参与(活动截止于2月24号  12点） https://t.co/O2EvI4uiOw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "幻想成为男娘的oder💊\n喜欢听摇滚  割🔪  重返未来1999\n来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "pinned_tweet_id": "2021195162106593327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 27,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 147
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2038529796704178242",
+    "created_at": "2026-03-30T14:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T15:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038622464079725041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1975500696427581440",
+          "start": 0,
+          "username": "TReverie_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038622464079725041",
+    "in_reply_to_user_id": "1975500696427581440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038529796704178242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TReverie_ 马克思理论下的共产主义在目前开来是错误，但不代表其他类型共产主义是错误，我觉得无政府共产主义挺好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2038529796704178242",
+        "created_at": "2026-03-30T14:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038622464079725041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975500696427581440",
+              "start": 0,
+              "username": "TReverie_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038622464079725041",
+        "in_reply_to_user_id": "1975500696427581440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038529796704178242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TReverie_ 马克思理论下的共产主义在目前开来是错误，但不代表其他类型共产主义是错误，我觉得无政府共产主义挺好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975500696427581440",
+        "conversation_id": "2038529796704178242",
+        "created_at": "2026-03-30T08:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038529796704178242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038529796704178242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6645,
+          "like_count": 216,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "觉得共产主义能用的人，要么智商低于80，要么历史没学好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "高中生 想成为男娘的oder💊\n喜欢听摇滚  割🔪  重返未来1999\n同类来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊(黑化版)无限默哀中",
+        "pinned_tweet_id": "2038609254941335615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 198,
+          "like_count": 1000,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 647
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "It is your own responsibility to decide who you truly are.",
+        "id": "1975500696427581440",
+        "location": "Ohio, USA",
+        "name": "Tiny Reverie🇺🇸✝️",
+        "pinned_tweet_id": "2000516104544997765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023995101543104512/aX_mx8Xf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7236,
+          "following_count": 1397,
+          "like_count": 20168,
+          "listed_count": 65,
+          "media_count": 1378,
+          "tweet_count": 4295
+        },
+        "username": "TReverie_",
+        "verified": true
+      }
+    ]
+  }
+}

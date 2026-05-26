@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2024131949066113040",
+    "created_at": "2026-02-18T14:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T15:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024131949066113040"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "魚條 · 雲和沙 · Song · 2022",
+          "display_url": "open.spotify.com/track/60JgZIyH…",
+          "end": 74,
+          "expanded_url": "https://open.spotify.com/track/60JgZIyHK5tlQNb7HysshE?si=SUEUGPz9RZWoMfMHP7Hefg",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://pbs.twimg.com/news_img/2024131951079325696/mvljAliI?format=jpg&name=orig",
+              "width": 640
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2024131951079325696/mvljAliI?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 51,
+          "status": 200,
+          "title": "毒品爭霸2020",
+          "unwound_url": "https://open.spotify.com/track/60JgZIyHK5tlQNb7HysshE?si=SUEUGPz9RZWoMfMHP7Hefg",
+          "url": "https://t.co/SwET00yjxJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024131949066113040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "带我去寫歌的鬼魂啊\n你可不普讓我擁有選挥\n在這世上有没有温存？\n是在那耀眼的遠方？\n還是在浪漫的故鄉？https://t.co/SwET00yjxJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2024131949066113040",
+        "created_at": "2026-02-18T14:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024131949066113040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "魚條 · 雲和沙 · Song · 2022",
+              "display_url": "open.spotify.com/track/60JgZIyH…",
+              "end": 74,
+              "expanded_url": "https://open.spotify.com/track/60JgZIyHK5tlQNb7HysshE?si=SUEUGPz9RZWoMfMHP7Hefg",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2024131951079325696/mvljAliI?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2024131951079325696/mvljAliI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 51,
+              "status": 200,
+              "title": "毒品爭霸2020",
+              "unwound_url": "https://open.spotify.com/track/60JgZIyHK5tlQNb7HysshE?si=SUEUGPz9RZWoMfMHP7Hefg",
+              "url": "https://t.co/SwET00yjxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024131949066113040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "带我去寫歌的鬼魂啊\n你可不普讓我擁有選挥\n在這世上有没有温存？\n是在那耀眼的遠方？\n還是在浪漫的故鄉？https://t.co/SwET00yjxJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "幻想成为男娘的oder💊\n喜欢听摇滚  割🔪  重返未来1999\n来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "芜无吾💊",
+        "pinned_tweet_id": "2021195162106593327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 25,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 126
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      }
+    ]
+  }
+}

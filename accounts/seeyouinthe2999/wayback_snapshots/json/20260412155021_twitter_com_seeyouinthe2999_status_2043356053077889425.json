@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2042842106235097532",
+    "created_at": "2026-04-12T15:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T16:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043356053077889425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1951570866581745664",
+          "start": 0,
+          "username": "Maimai_Offical"
+        },
+        {
+          "end": 32,
+          "id": "1696562747444797440",
+          "start": 16,
+          "username": "wang17337029945"
+        },
+        {
+          "end": 48,
+          "id": "1639247931898306561",
+          "start": 33,
+          "username": "sam51824016070"
+        },
+        {
+          "end": 59,
+          "id": "1884546510919979008",
+          "start": 49,
+          "username": "iamThujaS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043356053077889425",
+    "in_reply_to_user_id": "1951570866581745664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043355725783880100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maimai_Offical @wang17337029945 @sam51824016070 @iamThujaS 我在帮你们mtf lgbt说话啊，还有你有艾特人跟挂人有什么区别？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2042842106235097532",
+        "created_at": "2026-04-12T15:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043356053077889425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1951570866581745664",
+              "start": 0,
+              "username": "Maimai_Offical"
+            },
+            {
+              "end": 32,
+              "id": "1696562747444797440",
+              "start": 16,
+              "username": "wang17337029945"
+            },
+            {
+              "end": 48,
+              "id": "1639247931898306561",
+              "start": 33,
+              "username": "sam51824016070"
+            },
+            {
+              "end": 59,
+              "id": "1884546510919979008",
+              "start": 49,
+              "username": "iamThujaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043356053077889425",
+        "in_reply_to_user_id": "1951570866581745664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043355725783880100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maimai_Offical @wang17337029945 @sam51824016070 @iamThujaS 我在帮你们mtf lgbt说话啊，还有你有艾特人跟挂人有什么区别？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951570866581745664",
+        "conversation_id": "2042842106235097532",
+        "created_at": "2026-04-12T15:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043355725783880100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2019293013114253313",
+              "start": 0,
+              "username": "seeyouinthe2999"
+            },
+            {
+              "end": 33,
+              "id": "1696562747444797440",
+              "start": 17,
+              "username": "wang17337029945"
+            },
+            {
+              "end": 49,
+              "id": "1639247931898306561",
+              "start": 34,
+              "username": "sam51824016070"
+            },
+            {
+              "end": 80,
+              "id": "1884546510919979008",
+              "start": 70,
+              "username": "iamThujaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043355725783880100",
+        "in_reply_to_user_id": "2019293013114253313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043353993553064289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeyouinthe2999 @wang17337029945 @sam51824016070 还在LGBT mtf，智力高低一目了然 @iamThujaS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "15岁高中生 oder💊抑郁/焦虑/c-ptsd\n喜欢听摇滚  割🔪  重返未来1999 偶尔发一些意识流诗文\n只要有手机耳机我就在听歌睡觉也在\n励志成为无国籍人士\n同类来互fo捏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seeyouinthe2999",
+                "end": 23,
+                "expanded_url": "https://ngl.link/seeyouinthe2999",
+                "start": 0,
+                "url": "https://t.co/FSmPgqNygM"
+              }
+            ]
+          }
+        },
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "pinned_tweet_id": "2042249945395458273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 338,
+          "like_count": 1497,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 897
+        },
+        "url": "https://t.co/FSmPgqNygM",
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T09:09:01.000Z",
+        "description": "期望两岸友好，中日美关系正常\n适当见证，看见无脑黑和不顺眼的东西会骂       个人想说的: 音游 可尊重可支持LGBTQ等文化 无论是在见证区或是音游区看见我喜欢可以扩列\n拉黑我死全家😋 https://t.co/0BBORqNc0E",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@maimai_offica…",
+                "end": 119,
+                "expanded_url": "https://www.tiktok.com/@maimai_offical?_r=1&_t=ZS-94",
+                "start": 96,
+                "url": "https://t.co/0BBORqNc0E"
+              }
+            ]
+          }
+        },
+        "id": "1951570866581745664",
+        "location": "巴克什 绝密",
+        "name": "🍥乌鲁鲁酱ウルル🍥❤️🏳️‍⚧",
+        "pinned_tweet_id": "2019801317795832210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983360140406620160/elRy_3CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 96,
+          "like_count": 1827,
+          "listed_count": 4,
+          "media_count": 929,
+          "tweet_count": 4747
+        },
+        "username": "Maimai_Offical",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T16:37:46.000Z",
+        "description": "",
+        "id": "1696562747444797440",
+        "name": "123",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 69,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "username": "wang17337029945",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-24T12:50:09.000Z",
+        "description": "共产党那么邪恶，如果我们不反共，我们还是人吗❓\n\n爱国就反共，反共才是真爱国，没有共产党才有新中国，爱国反共，反共光荣，亲共可耻！\n\n请关注小号https://t.co/dllXpw0KFa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/Jamesso972309?…",
+                "end": 95,
+                "expanded_url": "https://x.com/Jamesso972309?t=HqKwQBV3q3Iar0J1ZHYvFQ&s=09",
+                "start": 72,
+                "url": "https://t.co/dllXpw0KFa"
+              }
+            ]
+          }
+        },
+        "id": "1639247931898306561",
+        "location": "California, USA",
+        "name": "YiFeng Su",
+        "pinned_tweet_id": "2007860353586384940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836500437815693314/URQTGhSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29551,
+          "following_count": 10019,
+          "like_count": 42222,
+          "listed_count": 141,
+          "media_count": 3537,
+          "tweet_count": 10101
+        },
+        "username": "sam51824016070",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-29T10:18:10.000Z",
+        "description": "左+劳保，社会保守主义最锋利的剑//冲出地狱，只为让各位粉红王座反贼之黑顺直o圈伪娘非二元地雷系性压抑南拳女拳扫福瑞币圈赌狗随机吃上一口新鲜大份/依旧平等歧视三观不正之神人，依旧刀刀烈火刀刀爆/@theRealThujaS唯一小号，@ThujaSlover为支黑假扮号。默认一切到处瞎鉴证追着骂的不论立场司爹司马",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 97,
+                "username": "theRealThujaS"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "ThujaSlover"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "http://xuexi.cn",
+                "start": 0,
+                "url": "https://t.co/Wwc59b2vAo"
+              }
+            ]
+          }
+        },
+        "id": "1884546510919979008",
+        "location": "发射桥鲁鲁工位上",
+        "name": "传奇出生乌鲁鲁（巡飞弹只飞别人浮木）",
+        "pinned_tweet_id": "2043196574986318323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025544194094489600/fqjmK1vS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 651,
+          "like_count": 4156,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1328
+        },
+        "url": "https://t.co/Wwc59b2vAo",
+        "username": "iamThujaS",
+        "verified": true
+      }
+    ]
+  }
+}

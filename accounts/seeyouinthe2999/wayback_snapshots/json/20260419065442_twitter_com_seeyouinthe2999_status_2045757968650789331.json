@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2045416714326970378",
+    "created_at": "2026-04-19T06:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T07:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045757968650789331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2044884002948214784",
+          "start": 0,
+          "username": "ZaZa89ta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045757968650789331",
+    "in_reply_to_user_id": "2044884002948214784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045416714326970378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaZa89ta 权威"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2045416703031730176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLHp4HbYAAYCQH.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2045416714326970378",
+        "created_at": "2026-04-19T06:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045757968650789331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2044884002948214784",
+              "start": 0,
+              "username": "ZaZa89ta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045757968650789331",
+        "in_reply_to_user_id": "2044884002948214784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045416714326970378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaZa89ta 权威"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045416703031730176"
+          ]
+        },
+        "author_id": "2044884002948214784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045416714326970378",
+        "created_at": "2026-04-18T08:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045416714326970378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3NCcNOCUKJ",
+              "end": 31,
+              "expanded_url": "https://x.com/ZaZa89ta/status/2045416714326970378/photo/1",
+              "media_key": "3_2045416703031730176",
+              "start": 8,
+              "url": "https://t.co/3NCcNOCUKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045416714326970378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一百粉我抽十盒 https://t.co/3NCcNOCUKJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "15岁高中生 oder💊抑郁/焦虑/c-ptsd\n喜欢听摇滚  割🔪  重返未来1999 偶尔发一些意识流诗文\n只要有手机耳机我就在听歌睡觉也在\n被pr80空腹逼疯的胃病患者\n同类来互fo捏\n@seeinMillennium 备用号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "seeinMillennium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seeyouinthe2999",
+                "end": 23,
+                "expanded_url": "https://ngl.link/seeyouinthe2999",
+                "start": 0,
+                "url": "https://t.co/FSmPgqNygM"
+              }
+            ]
+          }
+        },
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "pinned_tweet_id": "2045077580290941129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 377,
+          "like_count": 1646,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 935
+        },
+        "url": "https://t.co/FSmPgqNygM",
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T21:02:17.000Z",
+        "description": "我只是希望我的生活好一点",
+        "id": "2044884002948214784",
+        "name": "ZaZa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045097880177049600/8055mIda_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 19,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 84
+        },
+        "username": "ZaZa89ta",
+        "verified": false
+      }
+    ]
+  }
+}

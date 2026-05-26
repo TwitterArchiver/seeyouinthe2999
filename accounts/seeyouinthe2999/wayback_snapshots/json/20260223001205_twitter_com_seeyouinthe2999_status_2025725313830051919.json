@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2025657899557720205",
+    "created_at": "2026-02-23T00:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T01:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025725313830051919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1332712954047856641",
+          "start": 0,
+          "username": "xinwendiaocha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025725313830051919",
+    "in_reply_to_user_id": "1332712954047856641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025657899557720205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinwendiaocha 上海封城对学生挺好，直接让我玩爽了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2025657899557720205",
+        "created_at": "2026-02-23T00:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T01:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025725313830051919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1332712954047856641",
+              "start": 0,
+              "username": "xinwendiaocha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025725313830051919",
+        "in_reply_to_user_id": "1332712954047856641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025657899557720205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinwendiaocha 上海封城对学生挺好，直接让我玩爽了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1332712954047856641",
+        "conversation_id": "2025657899557720205",
+        "created_at": "2026-02-22T19:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T20:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025657899557720205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025657899557720205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "钉在历史耻辱柱上的中国城市标志\n\n杭州——便水入饮\n郑州——地铁淹死人\n上海——疫情封城3个月\n西安——女大学生饿死\n济南——学伴制度\n北京——天安门大屠杀，于朦胧案\n天津——港区大爆炸\n成都——饿死的孩子\n乌鲁木齐——封城火灾\n武汉——新冠病毒\n南京——法官王浩\n石家庄——三鹿奶粉\n天水——幼儿铅中毒\n唐山—烧烤店打人案\n江油—未成年霸凌事件\n克拉玛依——让领导先走。（火灾325人遇难，其中288名孩子。高跟鞋，踩穿了孩子们的胸腔）\n徐州丰县八孩铁链女\n南昌李宜雪，被强奸未遂，举报罪犯却被关精神病院，至今下落不明\n贵州→转移新冠大巴27死\n珠海——体育馆驾车撞车杀人事件\n江西工业职业技术学院鼠头鸭脖\n\n欢迎大家补充…."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 33267,
+          "like_count": 184,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "钉在历史耻辱柱上的中国城市标志\n\n杭州——便水入饮\n郑州——地铁淹死人\n上海——疫情封城3个月\n西安——女大学生饿死\n济南——学伴制度\n北京——天安门大屠杀，于朦胧案\n天津——港区大爆炸\n成都——饿死的孩子\n乌鲁木齐——封城火灾\n武汉——新冠病毒\n南京——法官王浩\n石家庄——三鹿奶粉\n天水——幼儿铅中毒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "幻想成为男娘的oder💊\n喜欢听摇滚  割🔪  重返未来1999\n来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "pinned_tweet_id": "2021195162106593327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 32,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 173
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-28T15:48:33.000Z",
+        "description": "追踪新闻，调查真相！ 投稿、商务合作邮箱：charles811203@gmail.com threads:https://t.co/vWaJQJxkd5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "threads.com/@caijingshujuk…",
+                "end": 76,
+                "expanded_url": "https://www.threads.com/@caijingshujuku?igshid=NTc4MTIwNjQ2YQ==",
+                "start": 53,
+                "url": "https://t.co/vWaJQJxkd5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@caijinglengya…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@caijinglengyan?si=c8_FduFeV9Xu3KnO",
+                "start": 0,
+                "url": "https://t.co/7tHKzRuGFb"
+              }
+            ]
+          }
+        },
+        "id": "1332712954047856641",
+        "name": "新闻调查",
+        "pinned_tweet_id": "2024330260502954134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347827975383760896/6aV1UyGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628993,
+          "following_count": 134,
+          "like_count": 3999,
+          "listed_count": 1643,
+          "media_count": 38020,
+          "tweet_count": 57625
+        },
+        "url": "https://t.co/7tHKzRuGFb",
+        "username": "xinwendiaocha",
+        "verified": true
+      }
+    ]
+  }
+}

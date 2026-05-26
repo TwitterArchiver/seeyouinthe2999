@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2027937229725962448",
+    "created_at": "2026-03-07T09:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T10:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030211026302763110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1989556591256113155",
+          "start": 0,
+          "username": "lovePhainonmfy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030211026302763110",
+    "in_reply_to_user_id": "1989556591256113155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027937229725962448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovePhainonmfy 呃呃呃羡慕我还得顶着精神病上学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2027937229725962448",
+        "created_at": "2026-03-07T09:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T10:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030211026302763110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1989556591256113155",
+              "start": 0,
+              "username": "lovePhainonmfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030211026302763110",
+        "in_reply_to_user_id": "1989556591256113155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027937229725962448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovePhainonmfy 呃呃呃羡慕我还得顶着精神病上学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989556591256113155",
+        "conversation_id": "2027937229725962448",
+        "created_at": "2026-03-01T02:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027937229725962448"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027937229725962448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的法克我终于休学了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "高中生 幻想成为男娘的oder💊\n喜欢听摇滚  割🔪  重返未来1999\n同类来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "pinned_tweet_id": "2026633753683177861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 111,
+          "like_count": 644,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 381
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T04:50:43.000Z",
+        "description": "🇨🇳｜💜 ｜🍀🐦‍🔥｜负能｜ACGN",
+        "id": "1989556591256113155",
+        "location": "sekai",
+        "name": "药瘾（互fo）",
+        "pinned_tweet_id": "2016074578083381414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016074723659284484/2jyS4PPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 65,
+          "like_count": 1360,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 288
+        },
+        "username": "lovePhainonmfy",
+        "verified": false
+      }
+    ]
+  }
+}

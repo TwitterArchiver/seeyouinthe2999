@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2042842106235097532",
+    "created_at": "2026-04-11T16:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T17:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043006906063823357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1696562747444797440",
+          "start": 0,
+          "username": "wang17337029945"
+        },
+        {
+          "end": 32,
+          "id": "1639247931898306561",
+          "start": 17,
+          "username": "sam51824016070"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043006906063823357",
+    "in_reply_to_user_id": "1696562747444797440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042849144021357024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wang17337029945 @sam51824016070 为什么会有人喜欢国家这个体质？国家从一开始就是用来压迫剥削的，如今所谓的民主，自由等不过是政客的票仓与妥协，结果一个个还那么拥护国家这一体质，明明推翻一切国家销毁国家这一体质，实现无政府主义并于共产主义结合能更好但国内外近几年来从来没有过相关的起义(之前二战西班牙有过)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2042842106235097532",
+        "created_at": "2026-04-11T16:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043006906063823357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1696562747444797440",
+              "start": 0,
+              "username": "wang17337029945"
+            },
+            {
+              "end": 32,
+              "id": "1639247931898306561",
+              "start": 17,
+              "username": "sam51824016070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043006906063823357",
+        "in_reply_to_user_id": "1696562747444797440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042849144021357024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wang17337029945 @sam51824016070 为什么会有人喜欢国家这个体质？国家从一开始就是用来压迫剥削的，如今所谓的民主，自由等不过是政客的票仓与妥协，结果一个个还那么拥护国家这一体质，明明推翻一切国家销毁国家这一体质，实现无政府主义并于共产主义结合能更好但国内外近几年来从来没有过相关的起义(之前二战西班牙有过)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696562747444797440",
+        "conversation_id": "2042842106235097532",
+        "created_at": "2026-04-11T06:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042849144021357024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1639247931898306561",
+              "start": 0,
+              "username": "sam51824016070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042849144021357024",
+        "in_reply_to_user_id": "1639247931898306561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1116,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042842106235097532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sam51824016070 你也可以成立以个国家，首都就设在你家小区，随你怎么说，谁理你啊，成为国家不是自己喊喊口号的事情，得别人承认你啊，孩子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "15岁高中生 oder💊抑郁/焦虑/c-ptsd\n喜欢听摇滚  割🔪  重返未来1999 偶尔发一些意识流诗文\n只要有手机耳机我就在听歌睡觉也在\n励志成为无国籍人士\n同类来互fo捏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seeyouinthe2999",
+                "end": 23,
+                "expanded_url": "https://ngl.link/seeyouinthe2999",
+                "start": 0,
+                "url": "https://t.co/FSmPgqNygM"
+              }
+            ]
+          }
+        },
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "pinned_tweet_id": "2042249945395458273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 336,
+          "like_count": 1445,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/FSmPgqNygM",
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T16:37:46.000Z",
+        "description": "",
+        "id": "1696562747444797440",
+        "name": "123",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 69,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "wang17337029945",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-24T12:50:09.000Z",
+        "description": "共产党那么邪恶，如果我们不反共，我们还是人吗❓\n\n爱国就反共，反共才是真爱国，没有共产党才有新中国，爱国反共，反共光荣，亲共可耻！\n\n请关注小号https://t.co/dllXpw0KFa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/Jamesso972309?…",
+                "end": 95,
+                "expanded_url": "https://x.com/Jamesso972309?t=HqKwQBV3q3Iar0J1ZHYvFQ&s=09",
+                "start": 72,
+                "url": "https://t.co/dllXpw0KFa"
+              }
+            ]
+          }
+        },
+        "id": "1639247931898306561",
+        "location": "California, USA",
+        "name": "YiFeng Su",
+        "pinned_tweet_id": "2007860353586384940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836500437815693314/URQTGhSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29418,
+          "following_count": 9984,
+          "like_count": 41985,
+          "listed_count": 137,
+          "media_count": 3510,
+          "tweet_count": 10042
+        },
+        "username": "sam51824016070",
+        "verified": true
+      }
+    ]
+  }
+}

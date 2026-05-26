@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2034515927396729184",
+    "created_at": "2026-03-19T14:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T15:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034643647116058923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1889969000979054594",
+          "start": 0,
+          "username": "ameame1438809"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034643647116058923",
+    "in_reply_to_user_id": "1889969000979054594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034515927396729184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ameame1438809 没准5年后就只剩这些了，甚至晚安，美金刚这些有点知名度的都没了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2034515922510401536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwNc8Mb0AAe0Dt.jpg",
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2034515927396729184",
+        "created_at": "2026-03-19T14:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T15:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034643647116058923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1889969000979054594",
+              "start": 0,
+              "username": "ameame1438809"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034643647116058923",
+        "in_reply_to_user_id": "1889969000979054594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034515927396729184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ameame1438809 没准5年后就只剩这些了，甚至晚安，美金刚这些有点知名度的都没了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034515922510401536"
+          ]
+        },
+        "author_id": "1889969000979054594",
+        "conversation_id": "2034515927396729184",
+        "created_at": "2026-03-19T06:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T07:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034515927396729184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kgKFPkuR9O",
+              "end": 54,
+              "expanded_url": "https://x.com/ameame1438809/status/2034515927396729184/photo/1",
+              "media_key": "3_2034515922510401536",
+              "start": 31,
+              "url": "https://t.co/kgKFPkuR9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034515927396729184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "局长对o晚安，美金刚，苯海索，苯海拉明，奈福泮致幻是这种表情 https://t.co/kgKFPkuR9O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "高中生 想成为男娘的oder💊\n喜欢听摇滚  割🔪  重返未来1999\n同类来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "pinned_tweet_id": "2026633753683177861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 164,
+          "like_count": 893,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 492
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T09:25:29.000Z",
+        "description": "头像名字灵感来源于广州吸毒",
+        "id": "1889969000979054594",
+        "location": "上海市",
+        "name": "上海市吸毒局",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032351529618038784/kE-9sYxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 28,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 98
+        },
+        "username": "ameame1438809",
+        "verified": false
+      }
+    ]
+  }
+}

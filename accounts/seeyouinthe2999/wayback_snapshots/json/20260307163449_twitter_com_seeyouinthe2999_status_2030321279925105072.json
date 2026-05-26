@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "2030197668979306997",
+    "created_at": "2026-03-07T16:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T17:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030321279925105072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1975500696427581440",
+          "start": 0,
+          "username": "TReverie_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030321279925105072",
+    "in_reply_to_user_id": "1975500696427581440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030197668979306997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TReverie_ 大型封控的话主要是在20年初的一段时间和22年吧(而且大型封控的区域不一样)，在三年的疫情时间中的上海大概有32个月可以自由外出"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2030197668979306997",
+        "created_at": "2026-03-07T16:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T17:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030321279925105072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975500696427581440",
+              "start": 0,
+              "username": "TReverie_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030321279925105072",
+        "in_reply_to_user_id": "1975500696427581440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030197668979306997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TReverie_ 大型封控的话主要是在20年初的一段时间和22年吧(而且大型封控的区域不一样)，在三年的疫情时间中的上海大概有32个月可以自由外出"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975500696427581440",
+        "conversation_id": "2030197668979306997",
+        "created_at": "2026-03-07T08:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T09:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030197668979306997"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030197668979306997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果你带着现在的记忆穿越到2019年中共国病毒即将出现的时候，你会怎么做？（可多选）\n1. 通知家人中共国病毒即将降临，赶紧想办法一起逃离未来的中共国三年疫情大封锁（取决于财力与家人信任度，有可能逃不出去）\n2. 联系并通知李文亮医生想办法逃出中共国后在发表对中共国病毒的研究（墙内容易被中共监听通讯，建议寻找安全环境）\n3. 在中共国社交媒体上通知中共管好他们在武汉的病毒（大概率马上被禁评+国安上门，被中共扣上境外势力的帽子后关进监狱里感染习禁评病毒而死）\n4. 上Twitter等外网社交媒体通知全世界的人们自己来自2026，中共国病毒即将在全球爆发（你将获得名声，以及很多人找你询问投资建议，有一定被暂时封号的风险，以及暂时遭受大量中共国网军们的网暴）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7566,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你带着现在的记忆穿越到2019年中共国病毒即将出现的时候，你会怎么做？（可多选）\n1. 通知家人中共国病毒即将降临，赶紧想办法一起逃离未来的中共国三年疫情大封锁（取决于财力与家人信任度，有可能逃不出去）\n2."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "高中生 幻想成为男娘的oder💊\n喜欢听摇滚  割🔪  重返未来1999\n同类来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "pinned_tweet_id": "2026633753683177861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 118,
+          "like_count": 661,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 401
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "i love god",
+        "id": "1975500696427581440",
+        "location": "Ohio, USA",
+        "name": "Tiny Reverie🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2000516104544997765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023995101543104512/aX_mx8Xf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6357,
+          "following_count": 1487,
+          "like_count": 18900,
+          "listed_count": 55,
+          "media_count": 1195,
+          "tweet_count": 3942
+        },
+        "username": "TReverie_",
+        "verified": true
+      }
+    ]
+  }
+}

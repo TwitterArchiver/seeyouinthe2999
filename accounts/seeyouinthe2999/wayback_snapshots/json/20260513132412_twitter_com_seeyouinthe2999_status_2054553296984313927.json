@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2054553296984313927",
+    "created_at": "2026-05-13T13:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T14:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054553296984313927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009238088149786624",
+          "start": 3,
+          "username": "dddlg555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054553296984313927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054440586493759699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dddlg555: 花导的111fo额外抽奖！\n（主页还有一份抽奖同时开免费参与哦）本次下了血本TT\n转帖点赞评论关注后即可参与 \n关于奖项 如在评论内抽到你后 检查发现有下过任意单 奖品翻倍!! \n\n💛 特等奖 pr150mg x32t!➕白兔瓶!\n抽一位\n\n🧡 一等…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2054553296984313927",
+        "created_at": "2026-05-13T13:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054553296984313927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009238088149786624",
+              "start": 3,
+              "username": "dddlg555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054553296984313927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054440586493759699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dddlg555: 花导的111fo额外抽奖！\n（主页还有一份抽奖同时开免费参与哦）本次下了血本TT\n转帖点赞评论关注后即可参与 \n关于奖项 如在评论内抽到你后 检查发现有下过任意单 奖品翻倍!! \n\n💛 特等奖 pr150mg x32t!➕白兔瓶!\n抽一位\n\n🧡 一等…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009238088149786624",
+        "conversation_id": "2054440586493759699",
+        "created_at": "2026-05-13T05:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054440586493759699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dddlg555/statu…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/dddlg555/status/2052516889574937025",
+              "start": 165,
+              "url": "https://t.co/IIE54kbFYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054440586493759699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1337,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052516889574937025",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "花导的111fo额外抽奖！\n（主页还有一份抽奖同时开免费参与哦）本次下了血本TT\n转帖点赞评论关注后即可参与 \n关于奖项 如在评论内抽到你后 检查发现有下过任意单 奖品翻倍!! \n\n💛 特等奖 pr150mg x32t!➕白兔瓶!\n抽一位\n\n🧡 一等奖pr75mgx8t三盒 \n抽两位\n\n🍋 安慰奖 蜜雪冰城柠檬水x1\n抽六位！ https://t.co/IIE54kbFYu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "15岁高中生 oder💊 mtf 抑郁/焦虑/c-ptsd\n喜欢听摇滚  割🔪  重返未来1999 偶尔发一些意识流诗文\n只要有手机耳机我就在听歌睡觉也在\n被pr80空腹逼疯的胃病患者\n同类来互fo捏\n@seeinMillennium 备用号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "seeinMillennium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seeyouinthe2999",
+                "end": 23,
+                "expanded_url": "https://ngl.link/seeyouinthe2999",
+                "start": 0,
+                "url": "https://t.co/FSmPgqNygM"
+              }
+            ]
+          }
+        },
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥马库斯爱吃蛋糕💊​🏳️‍⚧️",
+        "pinned_tweet_id": "2051915709974974926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 705,
+          "like_count": 2834,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 1235
+        },
+        "url": "https://t.co/FSmPgqNygM",
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T12:17:55.000Z",
+        "description": "火花花再度转生！是oder呀 新号 原号被封了\n疯狂互fo中\n防走丢@Front_456k",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "Front_456k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dddlg520",
+                "end": 23,
+                "expanded_url": "http://t.me/dddlg520",
+                "start": 0,
+                "url": "https://t.co/w7ukAvhA3b"
+              }
+            ]
+          }
+        },
+        "id": "2009238088149786624",
+        "location": "二相乐园-海原市",
+        "name": "@花导在路上Office",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042795325853962246/Ad-E3YAC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 63,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/w7ukAvhA3b",
+        "username": "dddlg555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2022590400679305579",
+    "created_at": "2026-02-14T08:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T09:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022590400679305579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1861532951827415040",
+          "start": 3,
+          "username": "tmgojbruiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022590400679305579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910301684011778365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tmgojbruiu: gogogo，od咯\n愈美片味道有多浓\n我只要普瑞的轻松\n吃思思做个白日梦\n磕烷胺吐出了彩虹\n我有想吃药的冲动\n有你在联用也从容\n无所畏惧的去加量\n醒来社媒赶紧删空\n幻觉中世界也会有不同\n每一个oder也拥有小的梦\n美金刚下机后重抑郁的暗涌\n我只…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2022590400679305579",
+        "created_at": "2026-02-14T08:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T09:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022590400679305579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1861532951827415040",
+              "start": 3,
+              "username": "tmgojbruiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022590400679305579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910301684011778365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tmgojbruiu: gogogo，od咯\n愈美片味道有多浓\n我只要普瑞的轻松\n吃思思做个白日梦\n磕烷胺吐出了彩虹\n我有想吃药的冲动\n有你在联用也从容\n无所畏惧的去加量\n醒来社媒赶紧删空\n幻觉中世界也会有不同\n每一个oder也拥有小的梦\n美金刚下机后重抑郁的暗涌\n我只…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861532951827415040",
+        "conversation_id": "1910301684011778365",
+        "created_at": "2025-04-10T11:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T12:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910301684011778365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910301684011778365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1963,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "gogogo，od咯\n愈美片味道有多浓\n我只要普瑞的轻松\n吃思思做个白日梦\n磕烷胺吐出了彩虹\n我有想吃药的冲动\n有你在联用也从容\n无所畏惧的去加量\n醒来社媒赶紧删空\n幻觉中世界也会有不同\n每一个oder也拥有小的梦\n美金刚下机后重抑郁的暗涌\n我只想和你割着手\n在药效看彩虹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "遗无需要和芜无吾永远在一起\noder\n有无人一起听摇滚一起od\n来互fo啊",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "芜无吾",
+        "pinned_tweet_id": "2021195162106593327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019294169844576263/0Asj402K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 25,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 103
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T22:10:24.000Z",
+        "description": "发疯自留地 | LGBTQ+友好 | 躁郁症 | 如果发任何od/自伤/重开行为请不要模仿珍爱生命积极生活 | 只会中国语但会用翻译器 | 如果发同人图全部为私人约稿 | 懒得分号所以很乱 | 推止于推丨胆子很小请友好T T",
+        "id": "1861532951827415040",
+        "location": "北极星区极东大区",
+        "name": "在天国进入处计划逃离地球",
+        "pinned_tweet_id": "1905976801295479207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904531218152181760/0l6Mhh4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 47,
+          "like_count": 735,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 285
+        },
+        "username": "tmgojbruiu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2039382209245966367",
+    "created_at": "2026-04-01T16:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039383014908862520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2016108531028787202",
+          "start": 0,
+          "username": "hello1145110043"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039383014908862520",
+    "in_reply_to_user_id": "2016108531028787202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039382209245966367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hello1145110043 身处苦难扔怀有理想主义"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 176,
+        "media_key": "3_2039382201452961796",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1XTp7boAQSL1I.jpg",
+        "width": 168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2039382209245966367",
+        "created_at": "2026-04-01T16:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039383014908862520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2016108531028787202",
+              "start": 0,
+              "username": "hello1145110043"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039383014908862520",
+        "in_reply_to_user_id": "2016108531028787202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039382209245966367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hello1145110043 身处苦难扔怀有理想主义"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039382201452961796"
+          ]
+        },
+        "author_id": "2016108531028787202",
+        "conversation_id": "2039382209245966367",
+        "created_at": "2026-04-01T16:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039382209245966367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rSM54mdes8",
+              "end": 48,
+              "expanded_url": "https://x.com/hello1145110043/status/2039382209245966367/photo/1",
+              "media_key": "3_2039382201452961796",
+              "start": 25,
+              "url": "https://t.co/rSM54mdes8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039382209245966367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说……\n你们觉得我是一个什么样的人？\n（思考） https://t.co/rSM54mdes8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "15岁高中生 oder💊\n喜欢听摇滚  割🔪  重返未来1999\n同类来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 247,
+          "like_count": 1060,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 707
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T11:18:35.000Z",
+        "description": "我是啥子",
+        "id": "2016108531028787202",
+        "location": "地球",
+        "name": "fo我免费送炸鸡（bushi ）",
+        "pinned_tweet_id": "2039368536037146659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036130106041835524/HGA7DrSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 98,
+          "like_count": 723,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 461
+        },
+        "username": "hello1145110043",
+        "verified": false
+      }
+    ]
+  }
+}

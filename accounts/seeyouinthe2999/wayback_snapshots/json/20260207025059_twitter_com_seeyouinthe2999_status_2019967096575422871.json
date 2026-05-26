@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019967093920419840"
+      ]
+    },
+    "author_id": "2019293013114253313",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2019967096575422871",
+    "created_at": "2026-02-07T02:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T03:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019967096575422871"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WW3dbrwbdt",
+          "end": 110,
+          "expanded_url": "https://x.com/seeyouinthe2999/status/2019967096575422871/photo/1",
+          "media_key": "3_2019967093920419840",
+          "start": 87,
+          "url": "https://t.co/WW3dbrwbdt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019967096575422871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“答應我 你不是那顆星，\n答應我 你從不覺得可惜，\n你知道 星星滿天都是，\n就只有幾個 有他的名字。”\n《你一直在那邊》\n这首歌听的我一直在哭，当代电影大师你也太有才了吧😭 https://t.co/WW3dbrwbdt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_2019967093920419840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhdXqMa0AAYSUj.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019967093920419840"
+          ]
+        },
+        "author_id": "2019293013114253313",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2019967096575422871",
+        "created_at": "2026-02-07T02:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T03:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019967096575422871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WW3dbrwbdt",
+              "end": 110,
+              "expanded_url": "https://x.com/seeyouinthe2999/status/2019967096575422871/photo/1",
+              "media_key": "3_2019967093920419840",
+              "start": 87,
+              "url": "https://t.co/WW3dbrwbdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019967096575422871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“答應我 你不是那顆星，\n答應我 你從不覺得可惜，\n你知道 星星滿天都是，\n就只有幾個 有他的名字。”\n《你一直在那邊》\n这首歌听的我一直在哭，当代电影大师你也太有才了吧😭 https://t.co/WW3dbrwbdt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "打倒伪社会主义重塑中华苏维埃之荣光",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "pr80+喹硫平重度依赖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019294169844576263/0Asj402K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 7,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      }
+    ]
+  }
+}

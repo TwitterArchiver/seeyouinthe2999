@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2022813231622803818",
+    "created_at": "2026-02-15T00:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T01:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022831536970830289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1803048962133483520",
+          "start": 0,
+          "username": "baixixi0712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022831536970830289",
+    "in_reply_to_user_id": "1803048962133483520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022813231622803818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baixixi0712 为什么你有学生会员我没有😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022813228540317696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBJ56f4bUAA7Jqr.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2022813231622803818",
+        "created_at": "2026-02-15T00:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T01:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022831536970830289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1803048962133483520",
+              "start": 0,
+              "username": "baixixi0712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022831536970830289",
+        "in_reply_to_user_id": "1803048962133483520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022813231622803818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baixixi0712 为什么你有学生会员我没有😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022813228540317696"
+          ]
+        },
+        "author_id": "1803048962133483520",
+        "conversation_id": "2022813231622803818",
+        "created_at": "2026-02-14T23:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T00:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022813231622803818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cF50iUS9ku",
+              "end": 32,
+              "expanded_url": "https://x.com/baixixi0712/status/2022813231622803818/photo/1",
+              "media_key": "3_2022813228540317696",
+              "start": 9,
+              "url": "https://t.co/cF50iUS9ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022813231622803818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？😭怎么偷我钱😭 https://t.co/cF50iUS9ku"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "幻想成为男娘的oder\n喜欢听摇滚  割🔪  重返未来1999\n来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "芜无吾",
+        "pinned_tweet_id": "2021195162106593327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 25,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 105
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T12:55:53.000Z",
+        "description": "07，双相，同类互fo会补赞👀，想要有好多好朋友，想要o到天昏地暗😋，割手爽😋，想只活在互联网上，想永远爱你们\n不参与任何争论和键政，不惹我我也不会惹你，我发我的看我不爽直接屏蔽就好\n还有就是求求你们不要再给我发几把照了😭",
+        "id": "1803048962133483520",
+        "location": "上海",
+        "name": "白汐🔪🩸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902841317132255232/kHWEIPI8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 118,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 404
+        },
+        "username": "baixixi0712",
+        "verified": false
+      }
+    ]
+  }
+}

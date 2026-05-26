@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2040829141801640423",
+    "created_at": "2026-04-06T04:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T05:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041006431370129822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913547413333348352",
+          "start": 0,
+          "username": "XingCou6966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041006431370129822",
+    "in_reply_to_user_id": "1913547413333348352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040985350731145302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XingCou6966 正好上学诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2040829141801640423",
+        "created_at": "2026-04-06T04:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041006431370129822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913547413333348352",
+              "start": 0,
+              "username": "XingCou6966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041006431370129822",
+        "in_reply_to_user_id": "1913547413333348352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040985350731145302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XingCou6966 正好上学诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913547413333348352",
+        "conversation_id": "2040829141801640423",
+        "created_at": "2026-04-06T02:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040985350731145302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2019293013114253313",
+              "start": 0,
+              "username": "seeyouinthe2999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040985350731145302",
+        "in_reply_to_user_id": "2019293013114253313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040829141801640423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeyouinthe2999 小戒5天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "15岁高中生 oder💊\n喜欢听摇滚  割🔪  重返未来1999 偶尔发一些意识流诗文\n只要有手机耳机我就在听歌睡觉也在\n励志成为无国籍人士\n同类来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 287,
+          "like_count": 1177,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 763
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T10:57:19.000Z",
+        "description": "05/男/od/割手，可以和我一起玩，我什么都玩。叫我小凑或者企鹅都可以",
+        "id": "1913547413333348352",
+        "location": "天堂",
+        "name": "星宫凑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017808612304031753/fWWsEJl0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 30,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 40
+        },
+        "username": "XingCou6966",
+        "verified": false
+      }
+    ]
+  }
+}

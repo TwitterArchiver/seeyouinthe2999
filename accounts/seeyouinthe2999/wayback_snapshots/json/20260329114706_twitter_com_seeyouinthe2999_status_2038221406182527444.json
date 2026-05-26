@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2038049387272630677",
+    "created_at": "2026-03-29T11:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T12:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038221406182527444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1593588333997076482",
+          "start": 0,
+          "username": "d44190139"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038221406182527444",
+    "in_reply_to_user_id": "1593588333997076482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038049387272630677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d44190139 主要是嫁组词有问题，嫁给，嫁过去等，这些词也就把嫁搞丑了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 990,
+        "media_key": "3_2038049371367849984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEibGu8WwAAOzdN.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2038049387272630677",
+        "created_at": "2026-03-29T11:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038221406182527444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1593588333997076482",
+              "start": 0,
+              "username": "d44190139"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038221406182527444",
+        "in_reply_to_user_id": "1593588333997076482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038049387272630677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d44190139 主要是嫁组词有问题，嫁给，嫁过去等，这些词也就把嫁搞丑了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038049371367849984"
+          ]
+        },
+        "author_id": "1593588333997076482",
+        "conversation_id": "2038049387272630677",
+        "created_at": "2026-03-29T00:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T01:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038049387272630677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3LgOffw47S",
+              "end": 60,
+              "expanded_url": "https://x.com/d44190139/status/2038049387272630677/photo/1",
+              "media_key": "3_2038049371367849984",
+              "start": 37,
+              "url": "https://t.co/3LgOffw47S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038049387272630677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 109382,
+          "like_count": 368,
+          "quote_count": 0,
+          "reply_count": 269,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "就因为说了个“嫁”字，就能脑补出这么多？\n\n请问“嫁”这个字哪里侮辱了？ https://t.co/3LgOffw47S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "高中生 想成为男娘的oder💊\n喜欢听摇滚  割🔪  重返未来1999\n同类来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "pinned_tweet_id": "2026633753683177861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 194,
+          "like_count": 984,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 569
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T12:54:12.000Z",
+        "description": "烟火蹿上人间，也得先问今晚吃啥😂\n99.9%发长段子 / 灵魂拷问 / 抽象小作文\n0.1%偶尔真情流露（然后被现实继续打脸）\n欢迎围观我的烟火人间🆙🖤",
+        "id": "1593588333997076482",
+        "location": "Hong Kong",
+        "name": "烟火小作文",
+        "pinned_tweet_id": "2037749930081599678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030438761235185665/APm8zXbu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2205,
+          "following_count": 1935,
+          "like_count": 5125,
+          "listed_count": 6,
+          "media_count": 651,
+          "tweet_count": 9392
+        },
+        "username": "d44190139",
+        "verified": true
+      }
+    ]
+  }
+}

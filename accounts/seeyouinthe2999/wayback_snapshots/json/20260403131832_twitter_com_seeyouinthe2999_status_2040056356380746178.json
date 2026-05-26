@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2039379453688914393",
+    "created_at": "2026-04-03T13:18:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T14:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040056356380746178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1487327562888269825",
+          "start": 0,
+          "username": "hha1361"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040056356380746178",
+    "in_reply_to_user_id": "1487327562888269825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039558182025175105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hha1361 预言家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2039379453688914393",
+        "created_at": "2026-04-03T13:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T14:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040056356380746178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1487327562888269825",
+              "start": 0,
+              "username": "hha1361"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040056356380746178",
+        "in_reply_to_user_id": "1487327562888269825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039558182025175105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hha1361 预言家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487327562888269825",
+        "conversation_id": "2039379453688914393",
+        "created_at": "2026-04-02T04:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039558182025175105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2019293013114253313",
+              "start": 0,
+              "username": "seeyouinthe2999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039558182025175105",
+        "in_reply_to_user_id": "2019293013114253313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039379453688914393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeyouinthe2999 你那是酒精中毒😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "15岁高中生 oder💊\n喜欢听摇滚  割🔪  重返未来1999\n同类来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 259,
+          "like_count": 1067,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 715
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T07:31:49.000Z",
+        "description": "没想好",
+        "id": "1487327562888269825",
+        "location": "大连",
+        "name": "青枫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505441926807318532/9ZKUscUa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 72,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 119
+        },
+        "username": "hha1361",
+        "verified": false
+      }
+    ]
+  }
+}

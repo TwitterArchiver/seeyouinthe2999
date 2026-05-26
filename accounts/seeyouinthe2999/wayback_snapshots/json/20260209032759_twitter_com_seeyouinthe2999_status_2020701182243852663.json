@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2020374972443897946",
+    "created_at": "2026-02-09T03:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T04:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020701182243852663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1493167914945748993",
+          "start": 0,
+          "username": "clintcheung7R"
+        },
+        {
+          "end": 31,
+          "id": "1950548412140494848",
+          "start": 15,
+          "username": "K7qWcfzcdAPW5Y9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020701182243852663",
+    "in_reply_to_user_id": "1493167914945748993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020525959821046245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clintcheung7R @K7qWcfzcdAPW5Y9 都走歪了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2020374972443897946",
+        "created_at": "2026-02-09T03:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T04:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020701182243852663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1493167914945748993",
+              "start": 0,
+              "username": "clintcheung7R"
+            },
+            {
+              "end": 31,
+              "id": "1950548412140494848",
+              "start": 15,
+              "username": "K7qWcfzcdAPW5Y9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020701182243852663",
+        "in_reply_to_user_id": "1493167914945748993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020525959821046245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clintcheung7R @K7qWcfzcdAPW5Y9 都走歪了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493167914945748993",
+        "conversation_id": "2020374972443897946",
+        "created_at": "2026-02-08T15:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T16:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020525959821046245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2019293013114253313",
+              "start": 0,
+              "username": "seeyouinthe2999"
+            },
+            {
+              "end": 33,
+              "id": "1950548412140494848",
+              "start": 17,
+              "username": "K7qWcfzcdAPW5Y9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020525959821046245",
+        "in_reply_to_user_id": "2019293013114253313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 849,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020479788545135024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeyouinthe2999 @K7qWcfzcdAPW5Y9 國共都是孫中山生出來的 懷念他？😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "遗无需要和芜无吾永远在一起\noder\n有无人一起听摇滚一起od\n来互fo啊",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "芜无吾",
+        "pinned_tweet_id": "2020455201002451443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019294169844576263/0Asj402K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 22,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 47
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T10:19:20.000Z",
+        "description": "📍Location: Singapore/ Aged 20/ Stand with TAIWAN 🇳🇫/ Pro-Western/ Union Jack/ Cantonia/Languages: 華語繁體(Traditional Chinese), 粵語(Cantonese), English",
+        "id": "1493167914945748993",
+        "location": "Commonwealth ",
+        "name": "💚羅素. CHEUNG 🏛️💚🇸🇬🇳🇫🇦🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984188832867373057/-dOG-SS2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 221,
+          "like_count": 20889,
+          "listed_count": 12,
+          "media_count": 74,
+          "tweet_count": 2565
+        },
+        "username": "clintcheung7R",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "女，汉族，河南驻马店人，小学学历，每天都看浪人新闻和跑路TV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/eL54RSHsuy"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16596,
+          "following_count": 268,
+          "like_count": 936,
+          "listed_count": 54,
+          "media_count": 836,
+          "tweet_count": 1074
+        },
+        "url": "https://t.co/eL54RSHsuy",
+        "username": "K7qWcfzcdAPW5Y9",
+        "verified": false
+      }
+    ]
+  }
+}

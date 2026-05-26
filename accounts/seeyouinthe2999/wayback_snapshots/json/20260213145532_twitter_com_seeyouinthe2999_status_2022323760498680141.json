@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2019293013114253313",
+    "conversation_id": "2022323760498680141",
+    "created_at": "2026-02-13T14:55:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T15:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022323760498680141"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022323760498680141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我爸有开始忽悠我了，说什么在江浙沪开工厂有几个人能做的到，还说什么我好好学习来继承他的产业，他那破产业连我每月2000的抚养费都给不起，现在还欠亲戚几十万，到时候这厂子到我手上不是财富是负债了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2022323760498680141",
+        "created_at": "2026-02-13T14:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022323760498680141"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022323760498680141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸有开始忽悠我了，说什么在江浙沪开工厂有几个人能做的到，还说什么我好好学习来继承他的产业，他那破产业连我每月2000的抚养费都给不起，现在还欠亲戚几十万，到时候这厂子到我手上不是财富是负债了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "遗无需要和芜无吾永远在一起\noder\n有无人一起听摇滚一起od\n来互fo啊",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "芜无吾",
+        "pinned_tweet_id": "2021195162106593327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019294169844576263/0Asj402K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 24,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 100
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      }
+    ]
+  }
+}
