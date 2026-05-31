@@ -5,5 +5,14 @@
   "location": "Shibuya-ku, Tokyo",
   "link": "ngl.link/seeyouinthe2999",
   "avatar": "avatar/avatar.jpg",
-  "banner": "avatar/1500x847.jpg"
+  "banner": "avatar/1500x847.jpg",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 112,
+        "start": 96,
+        "username": "seeinMillennium"
+      }
+    ]
+  }
 }
